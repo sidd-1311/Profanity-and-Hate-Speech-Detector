@@ -1,0 +1,10 @@
+venv# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+NLP(Hate Speech)/
