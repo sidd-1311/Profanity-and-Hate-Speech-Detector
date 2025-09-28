@@ -1,1 +1,1 @@
-# Profanity-and-Hate-Speech-Detector
+# Profanity-and-Hate-Speech-Detector.
